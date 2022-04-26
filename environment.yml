@@ -1,0 +1,5 @@
+name: massive-move
+dependencies:
+  - python=3.8
+  - conda-forge::notebook
+  - conda-forge::tqdm
