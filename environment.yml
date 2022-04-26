@@ -3,3 +3,4 @@ dependencies:
   - python=3.8
   - conda-forge::notebook
   - conda-forge::tqdm
+  - conda-forge::ipywidgets
