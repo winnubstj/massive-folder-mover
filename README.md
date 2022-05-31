@@ -10,5 +10,5 @@ conda env create -f environment.yml
 ### Updating environment from yml
 
 ```
-conda env update --file local.yml --prune
+conda env update --file environment.yml --prune
 ```
